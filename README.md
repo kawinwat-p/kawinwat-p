@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kawinwat Phithukwonglerd</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawinwat-p&label=Profile%20views&color=0e75b6&style=flat" alt="kawinwat-p" /> </p>
 
 <h3 align="left">Student of Chulalongkorn University</h3>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kawinwat-p&label=Profile%20views&color=0e75b6&style=flat" alt="kawinwat-p" /> </p>
+
 <p align="left">
 </p>
 
